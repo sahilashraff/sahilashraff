@@ -42,15 +42,15 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Saasyto — WhatsApp Marketing SaaS</h3>
+      <h3 align="center">Google RBM — RCS Business Messaging Platform</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/10k%2B%20msgs%2Fhr-blueviolet?style=flat-square"/>
-        <img src="https://img.shields.io/badge/WhatsApp%20Business-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google%20Partner-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RCS%20Messaging-EA4335?style=flat-square&logo=googlemessages&logoColor=white"/>
         <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square"/>
       </p>
-      <p>High-scale WhatsApp marketing platform processing 10,000+ messages/hour via a distributed Redis + BullMQ queue system. Features bulk campaigns, contact segmentation, template management, and deep analytics.</p>
+      <p>Production-grade RCS Business Messaging platform built on Google's RBM API. Enables rich interactive conversations — carousels, suggested replies, verified sender branding — delivered natively in Android Messages at telecom scale.</p>
       <p align="center">
-        <code>NodeJS</code> &nbsp;<code>BullMQ</code> &nbsp;<code>CodeIgniter</code> &nbsp;<code>AWS</code> &nbsp;<code>Redis</code>
+        <code>Node.js</code> &nbsp;<code>Google RBM API</code> &nbsp;<code>Pub/Sub</code> &nbsp;<code>GCP</code> &nbsp;<code>Redis</code>
       </p>
     </td>
   </tr>
