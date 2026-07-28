@@ -2,14 +2,49 @@
 
 <img align="right" width="30%" src="Assets/Programming.gif">
 
-<h3>Software Developer</h3>
+<a href="https://github.com/sahilashraff"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=false&vCenter=true&width=435&lines=Software+Developer;Backend+Specialist;Workflow+Automation+Expert" alt="Typing SVG" /></a>
+
+<br/>
+
+<a href="https://discord.gg/sahilashraff"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://facebook.com/sahilashraff"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://instagram.com/sahil.ashraff"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://linkedin.com/in/sahilashraff"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:sahilashraff@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<br/>
 
 - 👨‍💻 I’m currently working on backend systems, APIs, and workflow automations.
 - 💬 Ask me about **Laravel, Node.js, REST APIs, and Server Automation**
-- 📧 Reach me via [**Email**](mailto:sahilashraff@gmail.com) or connect on [**LinkedIn**](https://linkedin.com/in/sahilashraff).
-- 🤝 Let's connect on [**Discord**](https://discord.gg/sahilashraff) | [**Facebook**](https://facebook.com/sahilashraff) | [**Instagram**](https://instagram.com/sahil.ashraff) | [**Reddit**](https://reddit.com/user/sahilashraff).
 
 <br clear="both">
+
+<hr>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/sahilashraff/project-1">
+        <img src="https://via.placeholder.com/400x200.png?text=Placeholder:+Featured+Project+1" alt="Project 1" />
+      </a>
+      <br>
+      <strong><a href="https://github.com/sahilashraff/project-1">Featured Project 1 Name</a></strong>
+      <p>A brief description of this amazing project goes here. Replace this with real details.</p>
+      <code>Laravel</code> <code>Node.js</code>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/sahilashraff/project-2">
+        <img src="https://via.placeholder.com/400x200.png?text=Placeholder:+Featured+Project+2" alt="Project 2" />
+      </a>
+      <br>
+      <strong><a href="https://github.com/sahilashraff/project-2">Featured Project 2 Name</a></strong>
+      <p>Another amazing project description. Replace this link and image later!</p>
+      <code>React</code> <code>Tailwind</code>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
