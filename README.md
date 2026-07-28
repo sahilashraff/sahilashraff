@@ -1,6 +1,6 @@
-<img align="right" width="30%" src="Assets/Programming.gif">
-
 # Hi👋, I'm Sahil
+
+<img align="right" width="30%" src="Assets/Programming.gif">
 
 <h3>Software Developer</h3>
 
