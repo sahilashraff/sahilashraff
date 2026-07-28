@@ -1,21 +1,25 @@
-# Hi👋, I'm Sahil
+# Hi 👋, I'm Sahil Ashraff
 
-<img align="right" width="30%" src="Assets/Programming.gif">
+<img align="right" width="28%" src="Assets/Programming.gif">
 
-<a href="https://github.com/sahilashraff"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=false&vCenter=true&width=500&lines=Technical+Head+%26+Architect;Full+Stack+Developer;WhatsApp+API+Expert" alt="Typing SVG" /></a>
+<a href="https://github.com/sahilashraff"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=2196F3&center=false&vCenter=true&width=520&lines=Technical+Head+%26+Lead+Architect;WhatsApp+Cloud+API+%26+Meta+BSP+Expert;Full+Stack+%7C+Laravel+%7C+Node.js+%7C+Vue;Workflow+%26+Server+Automation+Specialist" alt="Typing SVG" /></a>
+
+<br/><br/>
+
+🏢 &nbsp;**Technical Head** at a Meta BSP (Business Solution Provider) partner company  
+⚙️ &nbsp;Designing and scaling **enterprise SaaS platforms** from the ground up  
+📲 &nbsp;Expert in **WhatsApp Cloud API**, multi-agent routing, and chatbot automation  
+🔌 &nbsp;Building **REST APIs, Webhooks & Third-party Integrations** at scale  
+☁️ &nbsp;**VPS, Docker & Server Automation** — managing production infrastructure  
+📊 &nbsp;Specialized in **CRM, Lead Management & Business Automation Tools**
 
 <br/>
 
-<a href="https://discord.gg/sahilashraff"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://linkedin.com/in/sahilashraff"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:sahilashraff@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
+<a href="https://discord.gg/sahilashraff"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;
+<a href="https://instagram.com/sahil.ashraff"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>&nbsp;
 <a href="https://facebook.com/sahilashraff"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://instagram.com/sahil.ashraff"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://linkedin.com/in/sahilashraff"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:sahilashraff@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-<br/>
-
-- 👨‍💻 I’m currently **Technical Head & Lead Architect**, building and scaling enterprise SaaS platforms.
-- 💬 Ask me about **WhatsApp Cloud API, Meta BSP Integration, Laravel, Node.js, and Redis**
 
 <br clear="both">
 
@@ -23,25 +27,31 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <a href="#">
-        <img src="https://via.placeholder.com/400x200.png?text=LeminAi+(WhatsApp+Cloud+API)" alt="LeminAi" />
-      </a>
-      <br>
-      <strong><a href="#">LeminAi (Meta BSP Partner)</a></strong>
-      <p>Enterprise-grade WhatsApp Cloud API platform with drag-and-drop visual chatbot builder and intelligent agent routing.</p>
-      <code>Laravel</code> <code>VueJS</code> <code>Redis</code> <code>Docker</code>
+    <td width="50%" valign="top">
+      <h3 align="center">LeminAi — Meta BSP Partner Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Meta%20BSP%20Partner-00B0F4?style=flat-square&logo=meta&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square"/>
+      </p>
+      <p>Enterprise-grade WhatsApp Cloud API platform featuring a drag-and-drop visual chatbot builder, intelligent human-agent handoff & routing, multi-tenant SaaS architecture, and real-time conversation analytics.</p>
+      <p align="center">
+        <code>Laravel</code> &nbsp;<code>VueJS</code> &nbsp;<code>Redis</code> &nbsp;<code>Docker</code> &nbsp;<code>MySQL</code>
+      </p>
     </td>
-    <td align="center" width="50%">
-      <a href="#">
-        <img src="https://via.placeholder.com/400x200.png?text=Saasyto+(WhatsApp+SaaS)" alt="Saasyto" />
-      </a>
-      <br>
-      <strong><a href="#">Saasyto (WhatsApp Marketing)</a></strong>
-      <p>High-scale WhatsApp marketing SaaS processing 10k+ msgs/hour with a distributed Redis+BullMQ queue system.</p>
-      <code>NodeJS</code> <code>BullMQ</code> <code>CodeIgniter</code> <code>AWS</code>
+    <td width="50%" valign="top">
+      <h3 align="center">Saasyto — WhatsApp Marketing SaaS</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/10k%2B%20msgs%2Fhr-blueviolet?style=flat-square"/>
+        <img src="https://img.shields.io/badge/WhatsApp%20Business-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square"/>
+      </p>
+      <p>High-scale WhatsApp marketing platform processing 10,000+ messages/hour via a distributed Redis + BullMQ queue system. Features bulk campaigns, contact segmentation, template management, and deep analytics.</p>
+      <p align="center">
+        <code>NodeJS</code> &nbsp;<code>BullMQ</code> &nbsp;<code>CodeIgniter</code> &nbsp;<code>AWS</code> &nbsp;<code>Redis</code>
+      </p>
     </td>
   </tr>
 </table>
@@ -50,15 +60,55 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<details open>
+<summary><b>🌐 Frontend</b></summary>
+<br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,mui,sass,vite" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,fastapi,mysql,postgres,mongodb,redis,sqlite,supabase,prisma" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,gcp,azure,vercel,netlify,cloudflare,firebase,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,bootstrap,mui,sass" />
   </a>
 </div>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & APIs</b></summary>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,fastapi,graphql" />
+  </a>
+</div>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Storage</b></summary>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,supabase,firebase,prisma" />
+  </a>
+</div>
+</details>
+
+<details open>
+<summary><b>☁️ DevOps, Cloud & Tools</b></summary>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,vercel,netlify,cloudflare,nginx,linux,bash,git,github,gitlab,postman" />
+  </a>
+</div>
+</details>
+
+<details open>
+<summary><b>🎨 Design & Other</b></summary>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,wordpress" />
+  </a>
+</div>
+</details>
 
 <hr>
 
@@ -119,7 +169,7 @@
 </div>
 
 <div align="center">
-  <h3>💰 Support Me</h3>
-  <a href="https://buymeacoffee.com/sahilashraff"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+  <h3>💰 Support My Work</h3>
+  <a href="https://buymeacoffee.com/sahilashraff"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>&nbsp;
   <a href="https://paypal.me/sahilashraff"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /></a>
 </div>
