@@ -66,11 +66,6 @@
   </a>
 </div>
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sahilashraff&limit=5&theme=default&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
-
 <hr>
 
 <div align="center">
