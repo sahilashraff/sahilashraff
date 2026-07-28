@@ -131,7 +131,7 @@
   </a>
 </div>
 
-<h2 align="center">🔥 Language Activity</h2>
+<h2 align="center">🔥 Language & Coding Activity</h2>
 
 <div width="100%" align="center">
   <a href="https://github.com/sahilashraff">
@@ -139,6 +139,13 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=sahilashraff&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=sahilashraff&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
       <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=sahilashraff&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+    </picture>
+  </a>
+  <a href="https://wakatime.com/@sahilashraff">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=sahilashraff&layout=compact&theme=radical&hide_border=true&langs_count=14&hide=other" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=sahilashraff&layout=compact&langs_count=14&hide=other" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=sahilashraff&layout=compact&theme=radical&hide_border=true&langs_count=14&hide=other" alt="WakaTime Stats" />
     </picture>
   </a>
 </div>
