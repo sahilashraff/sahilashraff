@@ -2,7 +2,7 @@
 
 <img align="right" width="30%" src="Assets/Programming.gif">
 
-<a href="https://github.com/sahilashraff"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=false&vCenter=true&width=435&lines=Software+Developer;Backend+Specialist;Workflow+Automation+Expert" alt="Typing SVG" /></a>
+<a href="https://github.com/sahilashraff"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=false&vCenter=true&width=500&lines=Technical+Head+%26+Architect;Full+Stack+Developer;WhatsApp+API+Expert" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -14,8 +14,8 @@
 
 <br/>
 
-- 👨‍💻 I’m currently working on backend systems, APIs, and workflow automations.
-- 💬 Ask me about **Laravel, Node.js, REST APIs, and Server Automation**
+- 👨‍💻 I’m currently **Technical Head & Lead Architect**, building and scaling enterprise SaaS platforms.
+- 💬 Ask me about **WhatsApp Cloud API, Meta BSP Integration, Laravel, Node.js, and Redis**
 
 <br clear="both">
 
@@ -26,22 +26,22 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/sahilashraff/project-1">
-        <img src="https://via.placeholder.com/400x200.png?text=Placeholder:+Featured+Project+1" alt="Project 1" />
+      <a href="#">
+        <img src="https://via.placeholder.com/400x200.png?text=LeminAi+(WhatsApp+Cloud+API)" alt="LeminAi" />
       </a>
       <br>
-      <strong><a href="https://github.com/sahilashraff/project-1">Featured Project 1 Name</a></strong>
-      <p>A brief description of this amazing project goes here. Replace this with real details.</p>
-      <code>Laravel</code> <code>Node.js</code>
+      <strong><a href="#">LeminAi (Meta BSP Partner)</a></strong>
+      <p>Enterprise-grade WhatsApp Cloud API platform with drag-and-drop visual chatbot builder and intelligent agent routing.</p>
+      <code>Laravel</code> <code>VueJS</code> <code>Redis</code> <code>Docker</code>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/sahilashraff/project-2">
-        <img src="https://via.placeholder.com/400x200.png?text=Placeholder:+Featured+Project+2" alt="Project 2" />
+      <a href="#">
+        <img src="https://via.placeholder.com/400x200.png?text=Saasyto+(WhatsApp+SaaS)" alt="Saasyto" />
       </a>
       <br>
-      <strong><a href="https://github.com/sahilashraff/project-2">Featured Project 2 Name</a></strong>
-      <p>Another amazing project description. Replace this link and image later!</p>
-      <code>React</code> <code>Tailwind</code>
+      <strong><a href="#">Saasyto (WhatsApp Marketing)</a></strong>
+      <p>High-scale WhatsApp marketing SaaS processing 10k+ msgs/hour with a distributed Redis+BullMQ queue system.</p>
+      <code>NodeJS</code> <code>BullMQ</code> <code>CodeIgniter</code> <code>AWS</code>
     </td>
   </tr>
 </table>
