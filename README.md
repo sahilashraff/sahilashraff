@@ -9,6 +9,8 @@
 - 📧 Reach me via [**Email**](mailto:sahilashraff@gmail.com) or connect on [**LinkedIn**](https://linkedin.com/in/sahilashraff).
 - 🤝 Let's connect on [**Discord**](https://discord.gg/sahilashraff) | [**Facebook**](https://facebook.com/sahilashraff) | [**Instagram**](https://instagram.com/sahil.ashraff) | [**Reddit**](https://reddit.com/user/sahilashraff).
 
+<br clear="both">
+
 <hr>
 
 <h2 align="center">🛠️ Tech Stack</h2>
